@@ -66,7 +66,6 @@ Variational circuits are quantum circuits with variable parameters that can be o
 * [Robust data encodings for quantum classifiers](https://arxiv.org/abs/2003.01695) (2020)
 * [Quantum Earth Mover's Distance: A New Approach to Learning Quantum Data](https://arxiv.org/abs/2101.03037) (2021)
 * [Quantum embeddings for machine learning](https://arxiv.org/abs/2001.03622) (2020)
-* [Quantum speed-up in global optimization of binary neural nets](https://iopscience.iop.org/article/10.1088/1367-2630/abc9ef/meta) (2021)
 * [Certificates of quantum many-body properties assisted by machine learning](https://arxiv.org/abs/2103.03830) (2021)
 * [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720) (2021)
 * [Quantum optimization for training quantum neural networks](https://arxiv.org/abs/2103.17047) (2021)
@@ -107,6 +106,7 @@ The following QML algorithms assume the existence of an efficient way to load cl
 * [Quantum Spectral Clustering](https://arxiv.org/abs/2007.00280) (2020)
 * [Quantum Algorithms for Data Representation and Analysis](https://arxiv.org/abs/2104.08987) (2021)
 * [Resonant Quantum Principal Component Analysis](https://arxiv.org/abs/2104.02476) (2021)
+* [Quantum speed-up in global optimization of binary neural nets](https://iopscience.iop.org/article/10.1088/1367-2630/abc9ef/meta) (2021)
 * [Classical and Quantum Algorithms for Orthogonal Neural Networks](https://arxiv.org/abs/2106.07198) (2021)
 * [Quantum algorithms for group convolution, cross-correlation, and equivariant transformations](https://arxiv.org/abs/2109.11330) (2021)
 
