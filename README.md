@@ -29,6 +29,7 @@ Variational circuits are quantum circuits with variable parameters that can be o
 * [Power of data in quantum machine learning](http://arxiv.org/abs/2011.01938) (2020)
 * [Information-theoretic bounds on quantum advantage in machine learning](https://arxiv.org/abs/2101.02464) (2021)
 * [Structural risk minimization for quantum linear classifiers](https://arxiv.org/abs/2105.05566) (2021)
+* [Generalization in quantum machine learning from few training data](http://arxiv.org/abs/2111.05292) (2021)
 
 ### Data-encoding
 
