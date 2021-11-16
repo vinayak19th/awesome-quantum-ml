@@ -59,6 +59,7 @@ Variational circuits are quantum circuits with variable parameters that can be o
 * [Quantum Earth Mover's Distance: A New Approach to Learning Quantum Data](https://arxiv.org/abs/2101.03037) (2021)
 * [Certificates of quantum many-body properties assisted by machine learning](https://arxiv.org/abs/2103.03830) (2021)
 * [Quantum optimization for training quantum neural networks](https://arxiv.org/abs/2103.17047) (2021)
+* [Provable Advantage in Quantum Phase Learning via Quantum Kernel Alphatron](https://arxiv.org/abs/2111.07553) (2021)
 
 ### Generative models
 
